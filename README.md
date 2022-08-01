@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anisul Haque Bhuiyan JAHID</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 
-### ![man_teacher](https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png)  About Me
+### ![man_teacher](https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png)  About Me  &nbsp; &nbsp; [![wakatime](https://wakatime.com/badge/user/d3a7ee04-a855-4106-9df6-c46170106928.svg)](https://wakatime.com/@d3a7ee04-a855-4106-9df6-c46170106928)
 
 I am a passionate computer science Student. I have been learning programming languages, web development, and computer science-related subjects. I am a Frontend developer and passionate about programming. I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me, I am spending much time improving my web development skills. Every day I want to learn something new and share my knowledge.
 
@@ -57,12 +57,14 @@ I am a passionate computer science Student. I have been learning programming lan
   [![Mrjahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjahid&amp;theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrjahid&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrjahid&theme=radical)](https://git.io/streak-stats)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjahid&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mrjahid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrjahid&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h3 dir="auto"><a id="user-content---employment-history" class="anchor" aria-hidden="true" href="#--employment-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png"><img class="emoji" alt="briefcase" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png"></g-emoji> &nbsp; Employment History</h3>
 
