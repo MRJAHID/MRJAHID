@@ -62,7 +62,7 @@ I am a passionate computer science Student. I have been learning programming lan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjahid&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mrjahid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrjahid&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Mrjahid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrjahid)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
