@@ -3,6 +3,24 @@
 <h1 align="center">Hi 👋, I'm Anisul Haque Bhuiyan JAHID</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 
+<p align="center" dir="auto">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=23&color=FF6A69&center=true&vCenter=true&lines=Always+Learning+New+Thing;Passionate+Frontend+developer;Experienced+Web+Designer;React+Developer" alt="Typing SVG" /></a>
+</p>
+
+<p align="center" dir="auto">
+       
+  <a href="https://twitter.com/mrjahid01" rel="nofollow"><img width="32px" alt="Twitter" title="Twitter" src="https://camo.githubusercontent.com/b1620ab68d63f5aef3ce15e1b72d85fcaa7b014346cdd8291e532dd0c113eb20/68747470733a2f2f692e696d6775722e636f6d2f4f585a4d314c362e706e67" data-canonical-src="https://i.imgur.com/OXZM1L6.png" style="max-width: 100%;"></a>
+       
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion &amp; Support Server" rel="nofollow"><img width="32px" src="https://camo.githubusercontent.com/adaa004187d9d68b49031463d39c5e47f1cf77d221b46785b858c8e55d84596c/68747470733a2f2f692e696d6775722e636f6d2f4f56695a4f384a2e706e67" data-canonical-src="https://i.imgur.com/OViZO8J.png" style="max-width: 100%;"></a>
+       
+  <a href="https://dev.to/mrjahid" rel="nofollow"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://camo.githubusercontent.com/4c233af6a49b56ef367ea491a6cb4ab76074a2bc674e36b3a5b70052a682f9b8/68747470733a2f2f692e696d6775722e636f6d2f6d566d3239764b2e706e67" data-canonical-src="https://i.imgur.com/mVm29vK.png" style="max-width: 100%;"></a>
+       
+  <a href="https://ko-fi.com/mrjahid" rel="nofollow"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://camo.githubusercontent.com/62ec6d9d4f6c3e31ddcf679e45dedfeb9255035ce89173399b1819b32ae31c8c/68747470733a2f2f692e696d6775722e636f6d2f50704c6544334b2e706e67" data-canonical-src="https://i.imgur.com/PpLeD3K.png" style="max-width: 100%;"></a>
+       
+  <a href="http://eyl327.mywebcommunity.org/promos/" rel="nofollow"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://camo.githubusercontent.com/4d9e853693485ee18fbed0775d6b57f2e2a0c5809537fbc82bec4c2a5c904464/68747470733a2f2f692e696d6775722e636f6d2f307556776b6f5a2e706e67" data-canonical-src="https://i.imgur.com/0uVwkoZ.png" style="max-width: 100%;"></a>
+</p>
+
+
 ### ![man_teacher](https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png)  About Me  &nbsp; &nbsp; [![wakatime](https://wakatime.com/badge/user/d3a7ee04-a855-4106-9df6-c46170106928.svg)](https://wakatime.com/@d3a7ee04-a855-4106-9df6-c46170106928)
 
 I am a passionate computer science Student. I have been learning programming languages, web development, and computer science-related subjects. I am a Frontend developer and passionate about programming. I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me, I am spending much time improving my web development skills. Every day I want to learn something new and share my knowledge.
